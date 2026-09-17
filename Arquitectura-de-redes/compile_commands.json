@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo12\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo12",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo12\\main.cpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo10\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo10",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo10\\main.cpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo10\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo9\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo9",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo9\\main.cpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo9\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo11\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo11",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo11\\main.cpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo11\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\PasodeArgumentos\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\PasodeArgumentos",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\PasodeArgumentos\\main.cpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\PasodeArgumentos\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pasodereferencia\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pasodereferencia",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pasodereferencia\\main.cpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pasodereferencia\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

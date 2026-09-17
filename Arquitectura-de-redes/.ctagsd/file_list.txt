@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Ejemplo12\main.cpp
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Ejemplo10\main.cpp
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Ejemplo9\main.cpp
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Ejemplo11\main.cpp
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\PasodeArgumentos\main.cpp
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Pasodereferencia\main.cpp
