@@ -1,4 +1,16 @@
 [{
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo13\\Personas.hpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo13\\Personas.hpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo13\\Personas.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo13\\Personas.cpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo13\\Personas.cpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo13\\Personas.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo13\\main.cpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo12\\main.cpp",
   "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo12",
   "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo12\\main.cpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
@@ -18,6 +30,26 @@
   "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\PasodeArgumentos\\main.cpp",
   "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\PasodeArgumentos",
   "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\PasodeArgumentos\\main.cpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\PasodeArgumentos\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\NodoPila.hpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\NodoPila.hpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\Pila.hpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\Pila.hpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\NodoPila.cpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\NodoPila.cpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\Pila.cpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\Pila.cpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\main.cpp",
+  "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar",
+  "command": "clang++ -c C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\main.cpp -o C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pilar\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pasodereferencia\\main.cpp",
   "directory": "C:\\Users\\Usuario\\Desktop\\Arquitectura-de-redes\\Arquitectura-de-redes\\Pasodereferencia",

@@ -11,7 +11,6 @@ void cuadrado(char c)
     cout << c << c << endl;
     return;
 }
-int main(int argc, char** argv)
 {
     cout << "Usamos la funcion para elevar al cuadrado" << endl;
     cout << cuadrado(67) << endl;

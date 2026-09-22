@@ -1,6 +1,14 @@
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Ejemplo13\Personas.hpp
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Ejemplo13\Personas.cpp
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Ejemplo13\main.cpp
 C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Ejemplo12\main.cpp
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Ejemplo11\main.cpp
 C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Ejemplo10\main.cpp
 C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Ejemplo9\main.cpp
-C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Ejemplo11\main.cpp
 C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\PasodeArgumentos\main.cpp
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Pilar\Pila.hpp
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Pilar\NodoPila.hpp
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Pilar\Pila.cpp
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Pilar\NodoPila.cpp
+C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Pilar\main.cpp
 C:\Users\Usuario\Desktop\Arquitectura-de-redes\Arquitectura-de-redes\Pasodereferencia\main.cpp

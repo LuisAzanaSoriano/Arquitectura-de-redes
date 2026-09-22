@@ -3,18 +3,18 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Ejemplo12
+ProjectName            :=Ejemplo13
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :=C:/Users/Usuario/Desktop/Arquitectura-de-redes/Arquitectura-de-redes
-ProjectPath            :=C:/Users/Usuario/Desktop/Arquitectura-de-redes/Arquitectura-de-redes/Ejemplo12
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo12
+ProjectPath            :=C:/Users/Usuario/Desktop/Arquitectura-de-redes/Arquitectura-de-redes/Ejemplo13
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo13
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=Usuario
-Date                   :=9/22/2026
+Date                   :=9/19/2026
 CodeLitePath           :=C:/Users/Usuario/Desktop/codelite-amd64-17.0.0/codelite
 MakeDirCommand         :=mkdir
 LinkerName             :=g++
@@ -64,7 +64,7 @@ AS       := as
 ## User defined environment variables
 ##
 CodeLiteDir:=C:\Users\Usuario\Desktop\codelite-amd64-17.0.0\codelite
-Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
+Objects0=$(IntermediateDirectory)/Personas.cpp$(ObjectSuffix) $(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
 
 
 
@@ -95,8 +95,13 @@ PreBuild:
 ##
 ## Objects
 ##
+$(IntermediateDirectory)/Personas.cpp$(ObjectSuffix): Personas.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Usuario/Desktop/Arquitectura-de-redes/Arquitectura-de-redes/Ejemplo13/Personas.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Personas.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/Personas.cpp$(PreprocessSuffix): Personas.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Personas.cpp$(PreprocessSuffix) Personas.cpp
+
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Usuario/Desktop/Arquitectura-de-redes/Arquitectura-de-redes/Ejemplo12/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Usuario/Desktop/Arquitectura-de-redes/Arquitectura-de-redes/Ejemplo13/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

@@ -3,12 +3,12 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Ejemplo12
+ProjectName            :=Pilas
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :=C:/Users/Usuario/Desktop/Arquitectura-de-redes/Arquitectura-de-redes
-ProjectPath            :=C:/Users/Usuario/Desktop/Arquitectura-de-redes/Arquitectura-de-redes/Ejemplo12
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo12
+ProjectPath            :=C:/Users/Usuario/Desktop/Arquitectura-de-redes/Arquitectura-de-redes/Pilar
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Pilar
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
@@ -64,7 +64,7 @@ AS       := as
 ## User defined environment variables
 ##
 CodeLiteDir:=C:\Users\Usuario\Desktop\codelite-amd64-17.0.0\codelite
-Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
+Objects0=$(IntermediateDirectory)/Pila.cpp$(ObjectSuffix) $(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix) $(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
 
 
 
@@ -95,8 +95,18 @@ PreBuild:
 ##
 ## Objects
 ##
+$(IntermediateDirectory)/Pila.cpp$(ObjectSuffix): Pila.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Usuario/Desktop/Arquitectura-de-redes/Arquitectura-de-redes/Pilar/Pila.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Pila.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/Pila.cpp$(PreprocessSuffix): Pila.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Pila.cpp$(PreprocessSuffix) Pila.cpp
+
+$(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix): NodoPila.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Usuario/Desktop/Arquitectura-de-redes/Arquitectura-de-redes/Pilar/NodoPila.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/NodoPila.cpp$(PreprocessSuffix): NodoPila.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/NodoPila.cpp$(PreprocessSuffix) NodoPila.cpp
+
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Usuario/Desktop/Arquitectura-de-redes/Arquitectura-de-redes/Ejemplo12/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Usuario/Desktop/Arquitectura-de-redes/Arquitectura-de-redes/Pilar/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 
